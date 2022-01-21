@@ -1,4 +1,4 @@
-# mathematical_aspects_of_machine_learning
+# Mathematical Aspects of Machine Learning
 Coursework of Mathematical Aspects of Machine Learning by Prof. Dr. Péter Koltai  at FU Berlin
 1. What is Machine Learning?
 2. Statistical Learning
