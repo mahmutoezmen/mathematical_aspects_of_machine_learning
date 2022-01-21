@@ -1,6 +1,7 @@
 # Mathematical Aspects of Machine Learning
 <p align="center">
   <b>Coursework of Mathematical Aspects of Machine Learning by Prof. Dr. Péter Koltai  at FU Berlin:</b><br>
+  <b>Syllabus:</b><br>
   <br><br>
 </p>
 
